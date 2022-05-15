@@ -29,9 +29,10 @@ To Use:
 
 ```bash
 $ pip install termcolor2
+```
 
+```bash
 $ pip install pyfiglet
-
 ```
 
 3-run code and using it!
